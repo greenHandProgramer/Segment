@@ -1,0 +1,2 @@
+D:\Lungcare\SegmentShowProject\SegmentShowProject\bin\Debug\SegmentShowProject.exe.config
+D:\Lungcare\Segment\SegmentShowProject\SegmentShowProject\bin\Debug\SegmentShowProject.exe.config
