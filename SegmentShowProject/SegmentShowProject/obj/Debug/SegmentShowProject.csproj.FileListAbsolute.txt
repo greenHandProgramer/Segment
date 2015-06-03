@@ -1,2 +1,3 @@
 D:\Lungcare\SegmentShowProject\SegmentShowProject\bin\Debug\SegmentShowProject.exe.config
 D:\Lungcare\Segment\SegmentShowProject\SegmentShowProject\bin\Debug\SegmentShowProject.exe.config
+C:\Users\Administrator\Desktop\gitTest\Segment\SegmentShowProject\SegmentShowProject\bin\Debug\SegmentShowProject.exe.config

@@ -17,7 +17,7 @@ namespace SegmentShowProject
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Console.WriteLine();
-            Console.WriteLine("mmmm");
+            Console.WriteLine("xxxx");
             Application.Run(new Form1());
         }
     }
