@@ -1,3 +1,15 @@
 D:\Lungcare\SegmentShowProject\SegmentShowProject\bin\Debug\SegmentShowProject.exe.config
 D:\Lungcare\Segment\SegmentShowProject\SegmentShowProject\bin\Debug\SegmentShowProject.exe.config
 C:\Users\Administrator\Desktop\gitTest\Segment\SegmentShowProject\SegmentShowProject\bin\Debug\SegmentShowProject.exe.config
+C:\Users\Administrator\Desktop\gitTest\Segment\SegmentShowProject\SegmentShowProject\bin\Debug\SegmentShowProject.exe
+C:\Users\Administrator\Desktop\gitTest\Segment\SegmentShowProject\SegmentShowProject\bin\Debug\SegmentShowProject.pdb
+C:\Users\Administrator\Desktop\gitTest\Segment\SegmentShowProject\SegmentShowProject\obj\Debug\SegmentShowProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\gitTest\Segment\SegmentShowProject\SegmentShowProject\obj\Debug\SegmentShowProject.Form1.resources
+C:\Users\Administrator\Desktop\gitTest\Segment\SegmentShowProject\SegmentShowProject\obj\Debug\SegmentShowProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\gitTest\Segment\SegmentShowProject\SegmentShowProject\obj\Debug\SegmentShowProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\gitTest\Segment\SegmentShowProject\SegmentShowProject\obj\Debug\SegmentShowProject.exe
+C:\Users\Administrator\Desktop\gitTest\Segment\SegmentShowProject\SegmentShowProject\obj\Debug\SegmentShowProject.pdb
+C:\Users\Administrator\Desktop\gitTest\Segment\SegmentShowProject\SegmentShowProject\bin\Debug\Dicom.dll
+C:\Users\Administrator\Desktop\gitTest\Segment\SegmentShowProject\SegmentShowProject\bin\Debug\NLog.dll
+C:\Users\Administrator\Desktop\gitTest\Segment\SegmentShowProject\SegmentShowProject\bin\Debug\Dicom.pdb
+C:\Users\Administrator\Desktop\gitTest\Segment\SegmentShowProject\SegmentShowProject\bin\Debug\NLog.xml
